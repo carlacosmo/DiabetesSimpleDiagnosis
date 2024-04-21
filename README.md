@@ -1,6 +1,8 @@
 # Diabetes Simple Diagnosis
 Repository created for **[validation of a Machine Learning model that predicts the diagnosis of diabetes](https://github.com/carlacosmo/DiabetesSimpleDiagnosis/blob/ae5fae7a10385eed7d2959a583db32e17b80f282/diabetes-simple-diagnosis-model-validation.ipynb)** in patients.
 
+<p align="center"><img src='https://github.com/carlacosmo/DiabetesSimpleDiagnosis/blob/main/diabetes_image.png' width="400" height="250"></p>
+<div align="right"><sup><sub>Image from <a href="https://pixabay.com/pt/users/mohamed_hassan-5229782/">Mohamed_hassan</a> by <a href="https://pixabay.com/pt/vectors/diabetes-rem%C3%A9dio-teste-mundo-6728917/">Pixabay</a></sub></sup></div>
 
 ## Part 1
 
