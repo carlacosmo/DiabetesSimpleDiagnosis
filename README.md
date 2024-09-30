@@ -8,7 +8,7 @@ Repository created for **[validation of a Machine Learning model that predicts t
 
 In the first stage, **exploratory analysis** is a general analysis of the dataset to understand all the information we have available in the database.
 - Alteration in the name of the ID column.
-- Validation of the types of variables in the data set.
+- Validation of the types of variables in the dataset.
 - Validation if there are null values in the base.
 - Validation of the dataset size, number of rows and columns.
 - And also validation of the cardinality of the variables, especially the categorical variables.
